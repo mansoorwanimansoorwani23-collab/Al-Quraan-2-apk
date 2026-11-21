@@ -1,0 +1,5 @@
+# Make Android XML resources, GitHub Actions YAML, and Gradle TOML visible in GitHub's Languages breakdown
+*.xml linguist-detectable=true
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+*.toml linguist-detectable=true
